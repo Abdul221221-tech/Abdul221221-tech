@@ -1,4 +1,3 @@
-<!-- GitHub Profile README for Abdul Waheed -->
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/198750233?v=4" width="130" alt="Abdul Waheed" style="border-radius:50%;" />
   
@@ -11,18 +10,18 @@
   <a href="mailto:abdulwaheed221221@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <br /><br />
+  <br><br>
   <img src="https://komarev.com/ghpvc/?username=Abdul221221-tech&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
 </div>
-<br />
+<br>
 ## 👨‍💻 About Me
 * 🎓 **Education:** Pursuing **B.Tech in Computer Science & Engineering (AI & ML)** at **Lamrin Tech Skills University, Ropar, Punjab**.
 * 📍 **Location:** Ayodhya, Uttar Pradesh, India.
 * 💡 **Interests:** Full-Stack Web Development, Machine Learning, Data Structures, and Algorithmic Problem Solving.
 * 🌱 **Currently Learning:** Deep Learning architectures & productionizing ML models with Flask/Next.js APIs.
 * 🎯 **Goals:** Contributing to open-source software and building AI tools that solve real-world problems.
-* 📫 **Contact:** Reach out at **[abdulwaheed221221@gmail.com](mailto:abdulwaheed221221@gmail.com)**.
-<br />
+* 📫 **Contact:** Reach out at **abdulwaheed221221@gmail.com**.
+<br>
 ## 🛠️ Tech Stack & Tools
 <div align="center">
 
@@ -34,7 +33,7 @@
 | **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" /> |
 
 </div>
-<br />
+<br>
 ## 🚀 Featured Projects
 <table>
   <tr>
@@ -66,13 +65,13 @@
     </td>
   </tr>
 </table>
-<br />
+<br>
 ## 📊 GitHub Analytics
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Abdul221221-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Abdul's GitHub stats" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul221221-tech&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 </div>
-<br />
+<br>
 ## 🤝 Let's Connect
 <div align="center">
   <a href="mailto:abdulwaheed221221@gmail.com">
@@ -82,7 +81,7 @@
     <img src="https://img.shields.io/badge/Follow_On_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
   </a>
 </div>
-<br />
+<br>
 <p align="center">
   <i>Thank you for visiting my profile! ⭐</i>
 </p>
