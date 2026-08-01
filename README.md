@@ -81,14 +81,11 @@ I am a driven **Full-Stack & AI/ML Developer** currently pursuing my B.Tech in C
   </tr>
 </table>
 <br>
-## 📊 GitHub Analytics
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abdul221221-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Abdul's GitHub stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul221221-tech&theme=tokyonight&hide_border=true" alt="Abdul's GitHub Streak" />
-</div>
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul221221-tech&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-</div>
+## ⚡ Current Focus & Milestones
+* 🚀 **Currently Building:** Refining machine learning pipelines and exploring advanced deep learning techniques to integrate into web apps.
+* 🧠 **Learning Path:** Actively enhancing my problem-solving skills with Data Structures and Algorithms in C++ and Python.
+* 🤝 **Open to:** Collaborations on open-source AI projects, hackathons, and full-stack development roles.
+* 📈 **Always Improving:** Constantly exploring new documentation, writing better code, and optimizing application performance.
 <br>
 ## 🤝 Let's Collaborate!
 <div align="center">
