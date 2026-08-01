@@ -1,100 +1,148 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/198750233?v=4" width="150" alt="Abdul Waheed" style="border-radius:50%; border: 4px solid #0e75b6;" />
+  <img src="https://avatars.githubusercontent.com/u/198750233?v=4" width="150" alt="Abdul Waheed" style="border-radius:50%; border: 4px solid #8b5cf6;" />
   
   <h1>Hi 👋, I'm Abdul Waheed</h1>
   
-  <!-- Dynamic Typing Header -->
+  <!-- Dynamic Typing Header (Blue/Purple theme) -->
   <a href="https://github.com/Abdul221221-tech">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=B.Tech+CSE+(AI+%26+ML)+Student;Full-Stack+%26+AI%2FML+Developer;Building+Data-Driven+Solutions;Crafting+Modern+Web+Applications" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=B.Tech+CSE+(AI+%26+ML)+Student;Full-Stack+%26+AI%2FML+Developer;Building+Data-Driven+Solutions;Crafting+Modern+Web+Applications" alt="Typing SVG" />
   </a>
-  
   <br>
-  <!-- Social Badges -->
+
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=Abdul221221-tech&label=Profile%20Views&color=8b5cf6&style=flat-square" alt="Profile views" />
+  <br><br>
+
+  <!-- Social Badges (Glassmorphism/Modern Dark Look) -->
   <a href="https://portfolio-abdul-waheed-dev.vercel.app">
-    <img src="https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Live_Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=8b5cf6&borderColor=8b5cf6" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/abdulwaheed-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=3b82f6" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Abdul221221-tech">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:abdulwaheed221221@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-0f172a?style=for-the-badge&logo=gmail&logoColor=ef4444" alt="Email" />
   </a>
-  
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=Abdul221221-tech&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
 </div>
 <br>
-## 👨‍💻 About Me
-I am a driven **Full-Stack & AI/ML Developer** currently pursuing my B.Tech in CSE (AI & ML) at Lamrin Tech Skills University. I specialize in bridging the gap between intelligent machine learning models and practical, user-friendly web applications. 
-* 🎓 **Education:** B.Tech in Computer Science & Engineering (AI & ML)
-* 📍 **Location:** Ayodhya, Uttar Pradesh, India
-* 💡 **What I Do:** I build end-to-end data-driven solutions, from training predictive models to deploying them via robust APIs and modern frontends.
-* 🎯 **Current Focus:** Deepening my knowledge in scalable architectures, contributing to open-source, and building real-world AI tools.
-* ⚡ **Fun Fact:** When I'm not coding, you'll find me exploring new AI tech, hunting for inspiration on GitHub, or unwinding with online games!
-<br>
-## 🛠️ Tech Stack & Tools
+
+<!-- Animated Section Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+
+<h2>👨‍💻 About Me</h2>
+<p>I am a driven <b>Full-Stack & AI/ML Developer</b> specializing in bridging the gap between intelligent machine learning models and practical, user-friendly web applications. Whether I am building predictive algorithms, exploring the potential of digital assistants for seamless device management, or engaging in technical writing and academic research on environmental challenges like water pollution, I am passionate about crafting innovative, data-driven solutions.</p>
+
+<ul>
+  <li>🎓 <b>Education:</b> B.Tech in Computer Science & Engineering (AI & ML) at Lamrin Tech Skills University, Punjab (2023–2027)</li>
+  <li>📍 <b>Location:</b> Ayodhya, Uttar Pradesh, India</li>
+  <li>💡 <b>Currently Learning:</b> Advanced React.js, Next.js, AI Agents, Full-Stack Development, Generative AI, and Cloud Technologies.</li>
+  <li>🎯 <b>Interests:</b> Artificial Intelligence, Machine Learning, Web Development, Open Source, Data Science, and UI/UX Design.</li>
+</ul>
+
+<!-- Animated Section Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+
+<h2>🛠️ Tech Stack & Tools</h2>
 <div align="center">
-
-| Category | Skillset / Technologies |
-| :--- | :--- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=cpp,py,js,html,css" alt="Languages" /> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="Frontend" /> |
-| **Backend & Cloud** | <img src="https://skillicons.dev/icons?i=nodejs,express,vercel" alt="Backend" /> |
-| **Databases** | <img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase" alt="Databases" /> |
-| **AI, ML & Data** | <img src="https://skillicons.dev/icons?i=sklearn,pandas,numpy" alt="ML" /> <br> *Plus: XGBoost, Matplotlib, Plotly, SMOTE, Tableau* |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools" /> |
-
+  <p><i>Hover over the icons below!</i></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,py,js,html,css,java&theme=dark" alt="Languages" /><br><br>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express&theme=dark" alt="Web Dev" /><br><br>
+    <img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase,aws,gcp&theme=dark" alt="Cloud & DB" /><br><br>
+    <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,git,github,vscode,figma&theme=dark" alt="AI & Tools" />
+  </a>
 </div>
 <br>
-## 🚀 Featured Projects
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📄 ATS Resume Analyzer</h3>
-      <p>An AI-powered web application that analyzes PDF resumes against job descriptions, evaluating ATS compatibility and generating customized improvement scores.</p>
-      <p><b>Python · Machine Learning · NLP · Flask</b></p>
-      <a href="https://github.com/Abdul221221-tech/ats-resume-analyzer"><b>View Repository →</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💳 Credit Risk Prediction</h3>
-      <p>A robust machine learning pipeline utilizing Random Forest and XGBoost to predict loan risks. Features deep data analysis with ROC-AUC and feature importance metrics.</p>
-      <p><b>Python · Scikit-Learn · XGBoost · Pandas</b></p>
-      <a href="https://github.com/Abdul221221-tech/credit-risk-prediction-with-dataset"><b>View Repository →</b></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌐 Developer Portfolio (Live)</h3>
-      <p>A highly interactive, responsive portfolio featuring an AI chatbot, 3D globe visualizations, smooth animations, and real-time Firebase backend integration.</p>
-      <p><b>Next.js · React · TypeScript · Tailwind</b></p>
-      <a href="https://portfolio-abdul-waheed-dev.vercel.app"><b>View Live Site →</b></a> | <a href="https://github.com/Abdul221221-tech/Portfolio_Abdul_waheed_dev"><b>Repository</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚛️ React Revision Journey</h3>
-      <p>A comprehensive, hands-on repository covering core React concepts, custom hooks, and modern state management practices for rapid frontend development.</p>
-      <p><b>React · JavaScript · CSS</b></p>
-      <a href="https://github.com/Abdul221221-tech/react-revision-journey"><b>View Repository →</b></a>
-    </td>
-  </tr>
-</table>
+
+<!-- Animated Section Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+
+<h2>🚀 Featured Projects</h2>
+<p><i>(Below are placeholder images for your projects. You can replace the image links with your own GIFs or screenshots later to make it fully customized!)</i></p>
+
+<h3>📄 ATS Resume Analyzer</h3>
+<a href="https://github.com/Abdul221221-tech/ats-resume-analyzer">
+  <img src="https://via.placeholder.com/800x350/0f172a/8b5cf6?text=ATS+Resume+Analyzer+[Replace+with+Demo+GIF]" alt="ATS Project Preview" style="border-radius: 8px;" width="100%" />
+</a>
+<p>AI-powered web application analyzing PDF resumes against job descriptions, evaluating ATS compatibility, and generating customized improvement scores.</p>
+<p><b>Python | NLP | Flask | Machine Learning</b></p>
 <br>
-## ⚡ Current Focus & Milestones
-* 🚀 **Currently Building:** Refining machine learning pipelines and exploring advanced deep learning techniques to integrate into web apps.
-* 🧠 **Learning Path:** Actively enhancing my problem-solving skills with Data Structures and Algorithms in C++ and Python.
-* 🤝 **Open to:** Collaborations on open-source AI projects, hackathons, and full-stack development roles.
-* 📈 **Always Improving:** Constantly exploring new documentation, writing better code, and optimizing application performance.
+
+<h3>💳 Credit Risk Prediction System</h3>
+<a href="https://github.com/Abdul221221-tech/credit-risk-prediction-with-dataset">
+  <img src="https://via.placeholder.com/800x350/0f172a/3b82f6?text=Credit+Risk+Prediction+[Replace+with+Demo+GIF]" alt="Credit Risk Project Preview" style="border-radius: 8px;" width="100%" />
+</a>
+<p>Robust machine learning pipeline utilizing Random Forest and XGBoost to predict loan risks, featuring deep data analysis and feature importance metrics.</p>
+<p><b>Scikit-Learn | XGBoost | Pandas | Plotly</b></p>
 <br>
-## 🤝 Let's Collaborate!
+
+<h3>📚 Web Platforms (Library, StudySync, Amazon Clone & Food Cutlery)</h3>
+<a href="https://portfolio-abdul-waheed-dev.vercel.app">
+  <img src="https://via.placeholder.com/800x350/0f172a/8b5cf6?text=Full-Stack+Web+Applications+[Replace+with+Demo+GIF]" alt="Web Projects Preview" style="border-radius: 8px;" width="100%" />
+</a>
+<p>A diverse collection of full-stack platforms including e-commerce clones, resource synchronization portals, and library management systems featuring responsive UIs and secure database integrations.</p>
+<p><b>React | Next.js | Tailwind CSS | Node.js | Express | MongoDB</b></p>
+
+<!-- Animated Section Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+
+<h2>📜 Certifications & Achievements</h2>
+<ul>
+  <li>🏆 <b>Introduction to Artificial Intelligence & Machine Learning</b></li>
+  <li>🏆 <b>Machine Learning using Python</b></li>
+  <li>🏆 <b>Data Visualization with Tableau</b></li>
+  <li>🏆 <b>Java Programming</b></li>
+  <li>🏆 <b>Frontend Development</b></li>
+</ul>
+
+<!-- Animated Section Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+
+<h2>🏆 GitHub Trophies</h2>
 <div align="center">
-  <p>I am always open to discussing web development, AI/ML models, or open-source opportunities.</p>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Abdul221221-tech&theme=dracula&no-frame=true&no-bg=true&margin-w=15&column=6" alt="GitHub Trophies" width="100%" />
+  </a>
+</div>
+<br>
+
+<h2>📊 GitHub Analytics & Snake Game</h2>
+<div align="center">
+  <!-- Dark Blue/Purple gradient themed stat cards -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdul221221-tech&show_icons=true&title_color=a855f7&text_color=94a3b8&icon_color=3b82f6&bg_color=0f172a&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul221221-tech&stroke=a855f7&ring=3b82f6&fire=a855f7&currStreakNum=ffffff&currStreakLabel=94a3b8&sideLabels=94a3b8&dates=94a3b8&bg_color=0f172a&hide_border=true" alt="GitHub Streak" width="48%" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul221221-tech&layout=compact&title_color=a855f7&text_color=94a3b8&bg_color=0f172a&hide_border=true" alt="Top Languages" width="50%" />
+</div>
+<br>
+
+<!-- GitHub Snake Animation -->
+<div align="center">
+  <h3>🐍 My Code Contributions</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdul221221-tech/Abdul221221-tech/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abdul221221-tech/Abdul221221-tech/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Abdul221221-tech/Abdul221221-tech/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
+
+<!-- Animated Section Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+
+<h2>🤝 Let's Collaborate!</h2>
+<div align="center">
+  <p><i>Always open to discussing web development, AI/ML models, or open-source opportunities!</i></p>
+  <br>
   <a href="https://linkedin.com/in/abdulwaheed-dev">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=3b82f6" alt="LinkedIn" />
   </a>
   <a href="mailto:abdulwaheed221221@gmail.com">
-    <img src="https://img.shields.io/badge/Send_An_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
+    <img src="https://img.shields.io/badge/Send_An_Email-0f172a?style=for-the-badge&logo=gmail&logoColor=ef4444" alt="Email Me" />
   </a>
 </div>
 <br>
