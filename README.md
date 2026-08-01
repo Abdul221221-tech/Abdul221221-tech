@@ -1,17 +1,56 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/198750233?v=4" width="150" alt="Abdul Waheed" style="border-radius:50%; border: 4px solid #8b5cf6;" />
+  <!-- Advanced Animated Profile Photo (Spinning Gradient Ring & Pulsing Glow) -->
+  <svg width="180" height="180" viewBox="0 0 180 180" style="overflow: visible;">
+    <defs>
+      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#3b82f6" />
+        <stop offset="50%" stop-color="#8b5cf6" />
+        <stop offset="100%" stop-color="#ec4899" />
+      </linearGradient>
+      <style>
+        @keyframes pulseGlow {
+          0% { filter: drop-shadow(0 0 5px #3b82f6); transform: scale(1); }
+          50% { filter: drop-shadow(0 0 20px #8b5cf6) drop-shadow(0 0 30px #ec4899); transform: scale(1.03); }
+          100% { filter: drop-shadow(0 0 5px #3b82f6); transform: scale(1); }
+        }
+        @keyframes rotateRing {
+          from { transform: rotate(0deg); }
+          to { transform: rotate(360deg); }
+        }
+        .avatar-container {
+          animation: pulseGlow 4s ease-in-out infinite;
+          transform-origin: center;
+        }
+        .spinning-ring {
+          animation: rotateRing 10s linear infinite;
+          transform-origin: center;
+        }
+      </style>
+    </defs>
+    
+    <!-- Spinning Gradient Ring -->
+    <circle class="spinning-ring" cx="90" cy="90" r="85" fill="none" stroke="url(#grad)" stroke-width="4" stroke-dasharray="20 10" />
+    
+    <!-- Avatar Image Clipped to Circle -->
+    <g class="avatar-container">
+      <clipPath id="circleView">
+        <circle cx="90" cy="90" r="80" />
+      </clipPath>
+      <image x="10" y="10" width="160" height="160" preserveAspectRatio="xMidYMid slice" href="https://avatars.githubusercontent.com/u/198750233?v=4" clip-path="url(#circleView)" />
+    </g>
+  </svg>
   
   <br><br>
   
-  <!-- Animated Name Greeting -->
+  <!-- Big Animated Name (With 1-Minute Pause / 60000ms delay after completion) -->
   <a href="https://github.com/Abdul221221-tech">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=35&pause=1000&color=a855f7&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Abdul+Waheed;Welcome+to+my+GitHub!" alt="Hi I'm Abdul Waheed" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=36&pause=60000&color=00F0FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Abdul+Waheed;Welcome+to+my+Developer+Profile!" alt="Hi I'm Abdul Waheed" />
   </a>
   <br>
   
-  <!-- Dynamic Typing Subtitle (Blue/Purple theme) -->
+  <!-- Dynamic Typing Subtitle (Purple Accent Color) -->
   <a href="https://github.com/Abdul221221-tech">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=B.Tech+CSE+(AI+%26+ML)+Student;Full-Stack+%26+AI%2FML+Developer;Building+Data-Driven+Solutions;Crafting+Modern+Web+Applications" alt="Typing SVG Subtitle" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=2000&color=A855F7&center=true&vCenter=true&width=600&lines=B.Tech+CSE+(AI+%26+ML)+Student;Full-Stack+%26+AI%2FML+Developer;Building+Data-Driven+Solutions;Crafting+Modern+Web+Applications" alt="Typing SVG Subtitle" />
   </a>
   <br>
 
@@ -19,7 +58,7 @@
   <img src="https://komarev.com/ghpvc/?username=Abdul221221-tech&label=Profile%20Views&color=8b5cf6&style=flat-square" alt="Profile views" />
   <br><br>
 
-  <!-- Social Badges (Glassmorphism/Modern Dark Look) -->
+  <!-- Social Badges -->
   <a href="https://portfolio-abdul-waheed-dev.vercel.app">
     <img src="https://img.shields.io/badge/Live_Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=8b5cf6&borderColor=8b5cf6" alt="Portfolio" />
   </a>
