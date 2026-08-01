@@ -61,30 +61,29 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
 <h2>🚀 Featured Projects</h2>
-<p><i>(Below are placeholder images for your projects. You can replace the image links with your own GIFs or screenshots later to make it fully customized!)</i></p>
 
-<h3>📄 ATS Resume Analyzer</h3>
-<a href="https://github.com/Abdul221221-tech/ats-resume-analyzer">
-  <img src="https://via.placeholder.com/800x350/0f172a/8b5cf6?text=ATS+Resume+Analyzer+[Replace+with+Demo+GIF]" alt="ATS Project Preview" style="border-radius: 8px;" width="100%" />
-</a>
-<p>AI-powered web application analyzing PDF resumes against job descriptions, evaluating ATS compatibility, and generating customized improvement scores.</p>
-<p><b>Python | NLP | Flask | Machine Learning</b></p>
+<blockquote>
+  <h3>📄 ATS Resume Analyzer</h3>
+  <p>AI-powered web application analyzing PDF resumes against job descriptions, evaluating ATS compatibility, and generating customized improvement scores.</p>
+  <p><b>Tech Stack:</b> Python | NLP | Flask | Machine Learning</p>
+  <a href="https://github.com/Abdul221221-tech/ats-resume-analyzer"><b>🔗 View Repository</b></a>
+</blockquote>
 <br>
 
-<h3>💳 Credit Risk Prediction System</h3>
-<a href="https://github.com/Abdul221221-tech/credit-risk-prediction-with-dataset">
-  <img src="https://via.placeholder.com/800x350/0f172a/3b82f6?text=Credit+Risk+Prediction+[Replace+with+Demo+GIF]" alt="Credit Risk Project Preview" style="border-radius: 8px;" width="100%" />
-</a>
-<p>Robust machine learning pipeline utilizing Random Forest and XGBoost to predict loan risks, featuring deep data analysis and feature importance metrics.</p>
-<p><b>Scikit-Learn | XGBoost | Pandas | Plotly</b></p>
+<blockquote>
+  <h3>💳 Credit Risk Prediction System</h3>
+  <p>Robust machine learning pipeline utilizing Random Forest and XGBoost to predict loan risks, featuring deep data analysis and feature importance metrics.</p>
+  <p><b>Tech Stack:</b> Scikit-Learn | XGBoost | Pandas | Plotly</p>
+  <a href="https://github.com/Abdul221221-tech/credit-risk-prediction-with-dataset"><b>🔗 View Repository</b></a>
+</blockquote>
 <br>
 
-<h3>📚 Web Platforms (Library, StudySync, Amazon Clone & Food Cutlery)</h3>
-<a href="https://portfolio-abdul-waheed-dev.vercel.app">
-  <img src="https://via.placeholder.com/800x350/0f172a/8b5cf6?text=Full-Stack+Web+Applications+[Replace+with+Demo+GIF]" alt="Web Projects Preview" style="border-radius: 8px;" width="100%" />
-</a>
-<p>A diverse collection of full-stack platforms including e-commerce clones, resource synchronization portals, and library management systems featuring responsive UIs and secure database integrations.</p>
-<p><b>React | Next.js | Tailwind CSS | Node.js | Express | MongoDB</b></p>
+<blockquote>
+  <h3>📚 Web Platforms (Library, StudySync, Amazon Clone & Food Cutlery)</h3>
+  <p>A diverse collection of full-stack platforms including e-commerce clones, resource synchronization portals, and library management systems featuring responsive UIs and secure database integrations.</p>
+  <p><b>Tech Stack:</b> React | Next.js | Tailwind CSS | Node.js | Express | MongoDB</p>
+  <a href="https://portfolio-abdul-waheed-dev.vercel.app"><b>🔗 View Live Site</b></a>
+</blockquote>
 
 <!-- Animated Section Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
@@ -109,7 +108,7 @@
 </div>
 <br>
 
-<h2>📊 GitHub Analytics & Snake Game</h2>
+<h2>📊 GitHub Analytics</h2>
 <div align="center">
   <!-- Dark Blue/Purple gradient themed stat cards -->
   <img src="https://github-readme-stats.vercel.app/api?username=Abdul221221-tech&show_icons=true&title_color=a855f7&text_color=94a3b8&icon_color=3b82f6&bg_color=0f172a&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
@@ -121,15 +120,8 @@
 </div>
 <br>
 
-<!-- GitHub Snake Animation -->
-<div align="center">
-  <h3>🐍 My Code Contributions</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdul221221-tech/Abdul221221-tech/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abdul221221-tech/Abdul221221-tech/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Abdul221221-tech/Abdul221221-tech/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
-</div>
+<!-- GitHub Snake Animation Note: -->
+<!-- To display the snake animation, you need to set up the GitHub Action first. Once set up, you can add the picture tags back here! -->
 
 <!-- Animated Section Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
