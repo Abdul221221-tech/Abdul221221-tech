@@ -1,11 +1,17 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/198750233?v=4" width="150" alt="Abdul Waheed" style="border-radius:50%; border: 4px solid #8b5cf6;" />
   
-  <h1>Hi 👋, I'm Abdul Waheed</h1>
+  <br><br>
   
-  <!-- Dynamic Typing Header (Blue/Purple theme) -->
+  <!-- Animated Name Greeting -->
   <a href="https://github.com/Abdul221221-tech">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=B.Tech+CSE+(AI+%26+ML)+Student;Full-Stack+%26+AI%2FML+Developer;Building+Data-Driven+Solutions;Crafting+Modern+Web+Applications" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=35&pause=1000&color=a855f7&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Abdul+Waheed;Welcome+to+my+GitHub!" alt="Hi I'm Abdul Waheed" />
+  </a>
+  <br>
+  
+  <!-- Dynamic Typing Subtitle (Blue/Purple theme) -->
+  <a href="https://github.com/Abdul221221-tech">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=B.Tech+CSE+(AI+%26+ML)+Student;Full-Stack+%26+AI%2FML+Developer;Building+Data-Driven+Solutions;Crafting+Modern+Web+Applications" alt="Typing SVG Subtitle" />
   </a>
   <br>
 
@@ -82,7 +88,7 @@
   <h3>📚 Web Platforms (Library, StudySync, Amazon Clone & Food Cutlery)</h3>
   <p>A diverse collection of full-stack platforms including e-commerce clones, resource synchronization portals, and library management systems featuring responsive UIs and secure database integrations.</p>
   <p><b>Tech Stack:</b> React | Next.js | Tailwind CSS | Node.js | Express | MongoDB</p>
-  <a href="https://portfolio-abdul-waheed-dev.vercel.app"><b>🔗 View Live Site</b></a>
+  <a href="https://github.com/Abdul221221-tech?tab=repositories"><b>🔗 View Repositories</b></a>
 </blockquote>
 
 <!-- Animated Section Divider -->
@@ -102,26 +108,23 @@
 
 <h2>🏆 GitHub Trophies</h2>
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Abdul221221-tech&theme=dracula&no-frame=true&no-bg=true&margin-w=15&column=6" alt="GitHub Trophies" width="100%" />
-  </a>
+  
+  [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Abdul221221-tech&theme=dracula&no-frame=true&no-bg=true&margin-w=15)](https://github.com/Abdul221221-tech)
+
 </div>
 <br>
 
 <h2>📊 GitHub Analytics</h2>
 <div align="center">
-  <!-- Dark Blue/Purple gradient themed stat cards -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdul221221-tech&show_icons=true&title_color=a855f7&text_color=94a3b8&icon_color=3b82f6&bg_color=0f172a&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul221221-tech&stroke=a855f7&ring=3b82f6&fire=a855f7&currStreakNum=ffffff&currStreakLabel=94a3b8&sideLabels=94a3b8&dates=94a3b8&bg_color=0f172a&hide_border=true" alt="GitHub Streak" width="48%" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul221221-tech&layout=compact&title_color=a855f7&text_color=94a3b8&bg_color=0f172a&hide_border=true" alt="Top Languages" width="50%" />
-</div>
-<br>
 
-<!-- GitHub Snake Animation Note: -->
-<!-- To display the snake animation, you need to set up the GitHub Action first. Once set up, you can add the picture tags back here! -->
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdul221221-tech&show_icons=true&title_color=a855f7&text_color=94a3b8&icon_color=3b82f6&bg_color=0f172a&hide_border=true&count_private=true)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abdul221221-tech&stroke=a855f7&ring=3b82f6&fire=a855f7&currStreakNum=ffffff&currStreakLabel=94a3b8&sideLabels=94a3b8&dates=94a3b8&bg_color=0f172a&hide_border=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul221221-tech&layout=compact&title_color=a855f7&text_color=94a3b8&bg_color=0f172a&hide_border=true)
+
+</div>
+<br>
 
 <!-- Animated Section Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
