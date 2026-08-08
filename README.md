@@ -194,10 +194,14 @@ A collection of full-stack apps — e-commerce clone, resource-sync portal, and 
 ### 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Abdul221221-tech/Abdul221221-tech/output/github-contribution-grid-snake-dark.svg" alt="A snake animation eating through the contribution graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdul221221-tech/Abdul221221-tech/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abdul221221-tech/Abdul221221-tech/output/github-contribution-grid-snake.svg" />
+  <img alt="A snake animation eating through the contribution graph" src="https://raw.githubusercontent.com/Abdul221221-tech/Abdul221221-tech/output/github-contribution-grid-snake.svg" />
+</picture>
 </div>
 
-> One-time setup: add the included `snake.yml` to `.github/workflows/` in your **Abdul221221-tech/Abdul221221-tech** repo and push once — GitHub Actions regenerates the animation daily from there.
+> The animation regenerates daily and can also be run manually from the **Actions** tab.
 
 ## 🏆 GitHub Trophies
 
