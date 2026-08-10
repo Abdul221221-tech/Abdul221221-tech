@@ -133,8 +133,6 @@ A collection of full-stack apps — e-commerce clone, resource-sync portal, and 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Abdul221221-tech&show_icons=true&title_color=a855f7&text_color=94a3b8&icon_color=3b82f6&bg_color=0f172a&hide_border=true&count_private=true" alt="GitHub Stats" />
 <br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul221221-tech&stroke=a855f7&ring=3b82f6&fire=a855f7&currStreakNum=ffffff&currStreakLabel=94a3b8&sideLabels=94a3b8&dates=94a3b8&bg_color=0f172a&hide_border=true" alt="GitHub Streak" />
-<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul221221-tech&layout=compact&title_color=a855f7&text_color=94a3b8&bg_color=0f172a&hide_border=true" alt="Top Languages" />
 
 </div>
@@ -151,13 +149,25 @@ A collection of full-stack apps — e-commerce clone, resource-sync portal, and 
 
 > The animation regenerates daily and can also be run manually from the **Actions** tab.
 
-## 🏆 GitHub Trophies
+## 💭 Quote I Code By
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Abdul221221-tech&theme=dracula&no-frame=true&no-bg=true&margin-w=15)](https://github.com/Abdul221221-tech)
+> *"Talk is cheap. Show me the code."*
+> — Linus Torvalds
 
 </div>
+
+<br>
+
+## ⚡ Quick Info
+
+- 🔭 **Currently working on:** ATS Resume Analyzer and expanding my AI/ML project portfolio
+- 🌱 **Currently leveling up in:** Advanced Next.js, AI Agents, and cloud deployment (AWS/GCP)
+- 👯 **Open to collaborating on:** AI/ML tools, full-stack web apps, and open-source projects
+- 💬 **Ask me about:** Python, Machine Learning, React/Next.js, or data analysis
+- 📫 **Reach me at:** [abdulwaheed221221@gmail.com](mailto:abdulwaheed221221@gmail.com)
+- ⚡ **Fun fact:** I like turning research and raw data into products people can actually use
 
 <br>
 
