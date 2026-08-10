@@ -1,33 +1,7 @@
 <div align="center">
 
 <!-- Animated Profile Avatar: Spinning Gradient Ring + Pulsing Glow -->
-<svg width="180" height="180" viewBox="0 0 180 180" style="overflow: visible;">
-  <defs>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#3b82f6" />
-      <stop offset="50%" stop-color="#8b5cf6" />
-      <stop offset="100%" stop-color="#ec4899" />
-    </linearGradient>
-    <style>
-      @keyframes pulseGlow {
-        0% { filter: drop-shadow(0 0 5px #3b82f6); transform: scale(1); }
-        50% { filter: drop-shadow(0 0 20px #8b5cf6) drop-shadow(0 0 30px #ec4899); transform: scale(1.03); }
-        100% { filter: drop-shadow(0 0 5px #3b82f6); transform: scale(1); }
-      }
-      @keyframes rotateRing {
-        from { transform: rotate(0deg); }
-        to { transform: rotate(360deg); }
-      }
-      .avatar-container { animation: pulseGlow 4s ease-in-out infinite; transform-origin: center; }
-      .spinning-ring { animation: rotateRing 10s linear infinite; transform-origin: center; }
-    </style>
-  </defs>
-  <circle class="spinning-ring" cx="90" cy="90" r="85" fill="none" stroke="url(#grad)" stroke-width="4" stroke-dasharray="20 10" />
-  <g class="avatar-container">
-    <clipPath id="circleView"><circle cx="90" cy="90" r="80" /></clipPath>
-    <image x="10" y="10" width="160" height="160" preserveAspectRatio="xMidYMid slice" href="https://avatars.githubusercontent.com/u/198750233?v=4" clip-path="url(#circleView)" />
-  </g>
-</svg>
+<img src="assets/avatar-badge.svg" width="180" height="180" alt="Abdul Waheed avatar" />
 
 <br><br>
 
@@ -53,20 +27,7 @@
 
 <br>
 
-<svg width="100%" height="4" viewBox="0 0 1000 4" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="divider1" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#3b82f6"/>
-      <stop offset="50%" stop-color="#8b5cf6"/>
-      <stop offset="100%" stop-color="#ec4899"/>
-    </linearGradient>
-    <style>
-      @keyframes shimmer1 { 0% { opacity: .45; } 50% { opacity: 1; } 100% { opacity: .45; } }
-      .bar1 { animation: shimmer1 3s ease-in-out infinite; }
-    </style>
-  </defs>
-  <rect class="bar1" width="1000" height="4" fill="url(#divider1)" rx="2"/>
-</svg>
+<img src="assets/divider.svg" width="100%" height="4" alt="" />
 
 ## 👨‍💻 About Me
 
@@ -117,20 +78,7 @@ I'm a **Full-Stack & AI/ML Developer** who loves turning machine learning models
 
 <br>
 
-<svg width="100%" height="4" viewBox="0 0 1000 4" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="divider2" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#3b82f6"/>
-      <stop offset="50%" stop-color="#8b5cf6"/>
-      <stop offset="100%" stop-color="#ec4899"/>
-    </linearGradient>
-    <style>
-      @keyframes shimmer2 { 0% { opacity: .45; } 50% { opacity: 1; } 100% { opacity: .45; } }
-      .bar2 { animation: shimmer2 3s ease-in-out infinite; }
-    </style>
-  </defs>
-  <rect class="bar2" width="1000" height="4" fill="url(#divider2)" rx="2"/>
-</svg>
+<img src="assets/divider.svg" width="100%" height="4" alt="" />
 
 ## 🚀 Featured Projects
 
@@ -213,20 +161,7 @@ A collection of full-stack apps — e-commerce clone, resource-sync portal, and 
 
 <br>
 
-<svg width="100%" height="4" viewBox="0 0 1000 4" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="divider3" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#3b82f6"/>
-      <stop offset="50%" stop-color="#8b5cf6"/>
-      <stop offset="100%" stop-color="#ec4899"/>
-    </linearGradient>
-    <style>
-      @keyframes shimmer3 { 0% { opacity: .45; } 50% { opacity: 1; } 100% { opacity: .45; } }
-      .bar3 { animation: shimmer3 3s ease-in-out infinite; }
-    </style>
-  </defs>
-  <rect class="bar3" width="1000" height="4" fill="url(#divider3)" rx="2"/>
-</svg>
+<img src="assets/divider.svg" width="100%" height="4" alt="" />
 
 ## 🤝 Let's Collaborate!
 
